@@ -1,6 +1,9 @@
-<p># **Hi :wave:, I'm Ranjith :sunglasses:**
+<p>
+  
+  # **Hi :wave:, I'm Ranjith :sunglasses:**
 
 **A self-taught programmer and trying to learn new things :wink: ...**
+
 </p>
 :fire: I’m currently working on Flutter app developing:iphone:.
 
