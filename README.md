@@ -1,6 +1,6 @@
-#Hi 👋, I'm Ranjith :sunglasses:#
+**Hi 👋, I'm Ranjith :sunglasses:**
 
-##A self-taught programmer and trying to learn new things :wink: ...##
+**A self-taught programmer and trying to learn new things :wink: ...
 
 Markup : * Bullet list
               * Nested bullet
