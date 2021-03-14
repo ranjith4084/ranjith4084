@@ -1,9 +1,11 @@
-**Hi 👋, I'm Ranjith :sunglasses:**
+**Hi :wave:, I'm Ranjith :sunglasses:**
 
-**A self-taught programmer and trying to learn new things :wink: ...
+**A self-taught programmer and trying to learn new things :wink: ...**
 
-Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
- 
+:fire: I’m currently working on Flutter app developing:iphone:.
+
+:seedling: I’m currently learning Flutter.
+
+:deciduous_tree:I already know to create webpage using HTML, CSS, JAVASCRIPT and maintain with database like MYSQL.:blossom:
+
+:innocent:Eagerly to learn new things.
