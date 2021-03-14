@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   
   # **Hi :wave:, I'm Ranjith :sunglasses:**
 
