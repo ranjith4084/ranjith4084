@@ -1,9 +1,7 @@
 
- <h1 align="center">Hi :wave:, I'm Ranjith :sunglasses:</h1>
+ <h1 align="center"><b>Hi :wave:, I'm Ranjith :sunglasses:</b></h1>
 <h3 align="center">A self-taught programmer and trying to learn new things :wink: ...</h3>
-# **Hi :wave:, I'm Ranjith :sunglasses:**
 
-**A self-taught programmer and trying to learn new things :wink: ...**
 
 
 :fire: I’m currently working on Flutter app developing:iphone:.
