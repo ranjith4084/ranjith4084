@@ -1,5 +1,7 @@
 
-  # **Hi :wave:, I'm Ranjith :sunglasses:**
+ <h1 align="center">Hi :wave:, I'm Ranjith :sunglasses:</h1>
+<h3 align="center">A self-taught programmer and trying to learn new things :wink: ...</h3>
+# **Hi :wave:, I'm Ranjith :sunglasses:**
 
 **A self-taught programmer and trying to learn new things :wink: ...**
 
