@@ -13,3 +13,6 @@
 :deciduous_tree:I already know to create webpage using HTML, CSS, JAVASCRIPT and maintain with database like MYSQL.:blossom:
 
 :innocent:Eagerly to learn new things.
+
+## Languages and Tools:
+JAVA, FLUTTER, DART, HTML, CSS, JAVASCRIPT, MYSQL, SERVLETS, PL/SQL
