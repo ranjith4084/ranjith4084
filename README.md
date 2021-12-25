@@ -4,7 +4,7 @@
 
 
 
-:fire: I’m currently working on Flutter app developing:iphone:.
+:fire: I’m currently working on Flutter app developing and Designing:iphone:.
 
 :seedling: I’m currently learning Flutter.
 
