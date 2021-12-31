@@ -25,8 +25,6 @@ Framework - Flutter, Spring MVC,Hibernate
 
 Front end - HTML5, CSS, JavaScript
 
-Others - Microsoft Windows, Linux, Figma, Adobe XD
-
 Back-end Platform - Firebase Console,Microsoft Azure
 
 Web And Applications Server - Apache Tomcat 7
@@ -34,5 +32,7 @@ Web And Applications Server - Apache Tomcat 7
 Database - SQL, NoSQL
 
 Repository - GIT repository
+
+Others - Microsoft Windows, Linux, Figma, Adobe XD
 
 :point_up:
