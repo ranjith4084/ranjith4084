@@ -13,7 +13,7 @@
 :innocent:Eagerly to learn new things.
 
 ## Languages and Tools:
-smiley::relaxed:
+:smiley: :relaxed:
 
 Programming languages - JAVA, DART, C
 
