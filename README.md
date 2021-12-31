@@ -15,13 +15,21 @@
 ## Languages and Tools:
 JAVA, FLUTTER, DART, HTML, CSS, JAVASCRIPT, MYSQL, SERVLETS, PL/SQL:smiley::relaxed:
 Programming languages - JAVA, DART, C
+
 Management Tools - JIRA, MySQL benchmark
-IDE - Eclipse, Android Studio,
-NetBeans, VS Code
+
+IDE - Eclipse, Android Studio,NetBeans, VS Code
+
 Framework - Flutter, Spring MVC,Hibernate
+
 Front end - HTML5, CSS, JavaScript
+
 Others - Microsoft Windows, Linux, Figma, Adobe XD
+
 Back-end Platform - Firebase Console,Microsoft Azure
+
 Web And Applications Server - Apache Tomcat 7
+
 Database - SQL, NoSQL
+
 Repository - GIT repository
