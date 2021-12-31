@@ -13,7 +13,8 @@
 :innocent:Eagerly to learn new things.
 
 ## Languages and Tools:
-JAVA, FLUTTER, DART, HTML, CSS, JAVASCRIPT, MYSQL, SERVLETS, PL/SQL:smiley::relaxed:
+smiley::relaxed:
+
 Programming languages - JAVA, DART, C
 
 Management Tools - JIRA, MySQL benchmark
