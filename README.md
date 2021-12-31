@@ -6,7 +6,7 @@
 
 :fire: I’m currently working as Flutter app developing and Designing:iphone:.
 
-:seedling: I am a freelancer in Flutter for developing Android and IOS as well as Designing.
+:seedling: I am a freelancer in Flutter for developing Android and IOS as well as Designing.:sunglasses:
 
 :deciduous_tree:I already know to create webpage using HTML, CSS, JAVASCRIPT and maintain with database like SQL.:blossom:
 
