@@ -13,7 +13,7 @@
 :innocent:Eagerly to learn new things.
 
 ## Languages and Tools:
-:smiley: :relaxed:
+:point_down:
 
 Programming languages - JAVA, DART, C
 
@@ -34,3 +34,5 @@ Web And Applications Server - Apache Tomcat 7
 Database - SQL, NoSQL
 
 Repository - GIT repository
+
+:point_up:
