@@ -3,10 +3,10 @@
 <h3 align="center">A self-taught programmer and trying to learn new things :wink: ...</h3>
 
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+:fire: I’m currently pursuing as Flutter Application/Websites Development and Designing:iphone:.
 
-:fire: I’m currently working as Flutter app developing and Designing:iphone:.
-
-:seedling: I am a freelancer in Flutter for developing Android and IOS as well as Designing.:sunglasses:
+:seedling: I am a freelancer in Flutter for developing both Mobile Application (Android and IOS) and Website as well as Designing.:sunglasses:
 
 :deciduous_tree:I already know to create webpage using HTML, CSS, JAVASCRIPT and maintain with database like SQL.:blossom:
 
@@ -25,11 +25,13 @@ Framework - Flutter, Spring MVC,Hibernate
 
 Front end - HTML5, CSS, JavaScript
 
-Back-end Platform - Firebase Console,Microsoft Azure
+API - Node js, Express Js
+
+Back-end Platform - Firebase Console,Microsoft Azure,Postgresql
 
 Web And Applications Server - Apache Tomcat 7
 
-Database - SQL, NoSQL
+Database - SQL, NoSQL, Postgresql
 
 Repository - GIT repository
 
