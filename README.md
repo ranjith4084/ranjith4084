@@ -1,5 +1,5 @@
 ![MasterHead](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
-<img alt="Coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 
  <h1 align="center"><b>Hi :wave:, I'm Ranjith :sunglasses:</b></h1>
 <h3 align="center">A self-taught programmer and trying to learn new things :wink: ...</h3>
