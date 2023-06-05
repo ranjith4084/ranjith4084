@@ -3,7 +3,7 @@
 <h3 align="center">A self-taught programmer and trying to learn new things :wink: ...</h3>
 
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
 :fire: I’m currently pursuing as Flutter Application/Websites Development and Designing:iphone:.
 
 :seedling: I am a freelancer in Flutter for developing both Mobile Application (Android and IOS) and Website as well as Designing.:sunglasses:
