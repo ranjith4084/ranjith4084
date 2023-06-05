@@ -16,26 +16,26 @@
 ## Languages and Tools:
 :point_down:
 
-Programming languages - JAVA, DART, C
+:mending_heart: Programming languages - JAVA, DART, C
 
-Management Tools - JIRA, MySQL benchmark
+:orange_heart: Management Tools - JIRA, MySQL benchmark
 
-IDE - Eclipse, Android Studio,NetBeans, VS Code
+:yellow_heart: IDE - Eclipse, Android Studio,NetBeans, VS Code
 
-Framework - Flutter, Spring MVC,Hibernate
+:green_heart: Framework - Flutter, Spring MVC,Hibernate
 
-Front end - HTML5, CSS, JavaScript
+:purple_heart: Front end - HTML5, CSS, JavaScript
 
-API - Node js, Express Js
+:orange_heart: API - Node js, Express Js
 
-Back-end Platform - Firebase Console,Microsoft Azure,Postgresql
+:blue_heart: Back-end Platform - Firebase Console,Microsoft Azure,Postgresql
 
-Web And Applications Server - Apache Tomcat 7
+:brown_heart: Web And Applications Server - Apache Tomcat 7
 
-Database - SQL, NoSQL, Postgresql
+:black_heart: Database - SQL, NoSQL, Postgresql
 
-Repository - GIT repository
+:white_heart: Repository - GIT repository
 
-Others - Microsoft Windows, Linux, Figma, Adobe XD
+:heart: Others - Microsoft Windows, Linux, Figma, Adobe XD
 
 :point_up:
