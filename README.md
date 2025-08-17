@@ -9,7 +9,7 @@
 <h4 align="center">✨ Creating bugs since before my first cry 👶💻<br><br>🌱 Currently leveling up in iOS Dev (soon Swift > my handwriting) 🍏📱<br><br>💬 Talk to me about Android, Flutter & a little backend chaos (yes, with extra s) 🐍🔥<br><br>📫 Reach me at: velusamyranjith@gmail.com (spam welcome, bugs not) 📩<br><br>⚡ Fun fact: I’m 99% innocent… the other 1% commits directly to main 🕶️<br><br>🎯 Goals: To flood the world with so many apps, soon it won’t be Play Store or App Store… it’ll be Ranjith Store 🏆🚀</h4>
 
 ###
-
+# 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
   <img width="12" />
