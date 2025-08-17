@@ -8,9 +8,7 @@
 ###
 <div align="center">
   
-![Profile Views](https://img.shields.io/badge/👀%20Profile%20Views-360332-ff69b4?style=for-the-badge)
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-360332-2ea44f?style=for-the-badge&logo=github)
-![Profile Views](https://img.shields.io/badge/Views-360332-orange?style=flat-square&logo=github)
 
 </div>
 
