@@ -5,6 +5,7 @@
 
 <h2 align="center">🕶️💻✨ "Writes code so clean, even my 🐛 bugs wear 🤵 suits 🤖" 🚀⚡</h2>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ###
 
 <h4 align="center">✨ Creating bugs since before my first cry 👶💻<br><br>🌱 Currently leveling up in iOS Dev (soon Swift > my handwriting) 🍏📱<br><br>💬 Talk to me about Android, Flutter & a little backend chaos (yes, with extra s) 🐍🔥<br><br>📫 Reach me at: velusamyranjith@gmail.com (spam welcome, bugs not) 📩<br><br>⚡ Fun fact: I’m 99% innocent… the other 1% commits directly to main 🕶️<br><br>🎯 Goals: To flood the world with so many apps, soon it won’t be Play Store or App Store… it’ll be Ranjith Store 🏆🚀</h4>
