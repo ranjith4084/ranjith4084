@@ -6,7 +6,15 @@
 <h2 align="center">🕶️💻✨ "Writes code so clean, even my 🐛 bugs wear 🤵 suits 🤖" 🚀⚡</h2>
 
 ###
+<div align="center">
+  
+![Profile Views](https://img.shields.io/badge/👀%20Profile%20Views-360332-ff69b4?style=for-the-badge)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-360332-2ea44f?style=for-the-badge&logo=github)
+![Profile Views](https://img.shields.io/badge/Views-360332-orange?style=flat-square&logo=github)
 
+</div>
+
+###
 <h4 align="center">✨ Creating bugs since before my first cry 👶💻<br><br>🌱 Currently leveling up in iOS Dev (soon Swift > my handwriting) 🍏📱<br><br>💬 Talk to me about Android, Flutter & a little backend chaos (yes, with extra s) 🐍🔥<br><br>📫 Reach me at: velusamyranjith@gmail.com (spam welcome, bugs not) 📩<br><br>⚡ Fun fact: I’m 99% innocent… the other 1% commits directly to main 🕶️<br><br>🎯 Goals: To flood the world with so many apps, soon it won’t be Play Store or App Store… it’ll be Ranjith Store 🏆🚀</h4>
 
 ###
