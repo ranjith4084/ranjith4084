@@ -106,8 +106,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjith4084/ranjith4084/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ranjith4084/ranjith4084/output/pacman-contribution-graph.svg">
 </picture>
-<!-- Snake Game Repo View -->
 
+###
+<!-- Snake Game Repo View -->
+## 🐍 My Contributions
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
