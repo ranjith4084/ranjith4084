@@ -119,3 +119,8 @@
 
 
 ###
+<!-- DevCard Repo View -->
+## 📱 My DevCard DevCard�️
+<a href="https://app.daily.dev/ranjithvelu"><img src="https://api.daily.dev/devcards/v2/Qy3oFYDohJ2GYwc37IPRP.png?type=default&r=gie" width="356" alt="ranjith velu's Dev Card"/></a>
+
+
